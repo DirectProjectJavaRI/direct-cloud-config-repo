@@ -1,0 +1,12 @@
+eureka:
+  client:
+    enabled: true
+    
+spring:
+  security:
+    basic:
+      enabled: true
+    user:
+      name: admin
+      password: someplaceholder
+  
