@@ -1,0 +1,14 @@
+direct:
+  webservices:
+    security:
+      basic:
+        user:
+          name: admin
+          password: someplaceholder
+  config:
+    service:
+      # Blank urls will force the service to use Eureka (if eurkea has been enabled)
+      url: 
+  msgmonitor
+    service:
+      url
