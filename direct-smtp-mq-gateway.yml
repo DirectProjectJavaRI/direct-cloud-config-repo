@@ -1,1 +1,4 @@
 direct.smtpmqgateway.binding.port: 8080
+direct.smtpmqgateway.loadgen.rate: 5000
+direct.smtpmqgateway.loadgen.sender: test@securehealthemail.com
+direct.smtpmqgateway.loadgen.recipient: test@securehealthemail.com
