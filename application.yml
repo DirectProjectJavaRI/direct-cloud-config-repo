@@ -9,6 +9,6 @@ direct:
     service:
       # Blank urls will force the service to use Eureka (if eurkea has been enabled)
       url: 
-  msgmonitor
+  msgmonitor:
     service:
       url: 
