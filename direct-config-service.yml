@@ -10,3 +10,4 @@ spring:
       name: admin
       password: someplaceholder
   
+  jpa.properties.hibernate.jdbc.lob.non_contextual_creation: true
