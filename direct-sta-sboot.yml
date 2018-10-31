@@ -1,3 +1,9 @@
 eureka:
   client:
     enabled: true
+    
+direct:
+  gateway:
+    remotedelivery:
+      dns:
+        servers: '8.8.8.8'
