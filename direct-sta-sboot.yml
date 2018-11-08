@@ -7,3 +7,6 @@ direct:
     remotedelivery:
       dns:
         servers: '8.8.8.8'
+    xd:
+      endpointUrl: 
+      
