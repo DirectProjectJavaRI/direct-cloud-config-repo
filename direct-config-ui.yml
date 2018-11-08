@@ -7,4 +7,4 @@ direct:
     security:
       user:
         name: admin
-        password: {bcrypt}$2a$04$8hA4riZBlPQZ9G6YL8wJkuEPMzDzY0tB2TbyWuXoqvrx7P32V3D/S
+        password: "{bcrypt}$2a$04$8hA4riZBlPQZ9G6YL8wJkuEPMzDzY0tB2TbyWuXoqvrx7P32V3D/S"
