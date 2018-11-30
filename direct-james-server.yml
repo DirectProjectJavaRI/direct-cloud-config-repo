@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
-    url: jdbc:postgres://vcvhkedf:z_ScfY5glXDMHwW7Q_CRI91BcUdJCY55@stampy-01.db.elephantsql.com:5432/vcvhkedf
+    url: jdbc:postgres://stampy-01.db.elephantsql.com:5432/vcvhkedf
     username: vcvhkedf
     password: z_ScfY5glXDMHwW7Q_CRI91BcUdJCY55
     adapter: POSTGRESQL
