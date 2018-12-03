@@ -6,3 +6,7 @@ spring:
     password: z_ScfY5glXDMHwW7Q_CRI91BcUdJCY55
     adapter: POSTGRESQL
     streaming: false
+    
+eureka:
+  client:
+    enabled: true    
